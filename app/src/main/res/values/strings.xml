@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuickDealMart</string>
+    <string name="Women_v">Women\'s</string>
+    <string name="mens_v">Men\'s</string>
+    <string name="kids_v">Kids</string>
+    <string name="babies_v">Babies</string>
+    <string name="fashion_v">Clothing</string>
+    <string name="Women_f">Women\'s Fashion</string>
+    <string name="mens_f">Men\'s Fashion</string>
+    <string name="kids_f">Kids Fashion</string>
+    <string name="babies_f">Baby ware</string>
+    <string name="buy_v">Buy</string>
+    <string name="View_v">View</string>
+    <string name="back_v">Back</string>
+    <string name="next_v">Next</string>
+</resources>
